@@ -1,2 +1,3 @@
 datadog/agent-arm64:7.29.1-jmx
 datadog/agent-arm64:7.29.1
+duscks23/ubuntu22.04:v0.3
