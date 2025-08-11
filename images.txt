@@ -1,1 +1,2 @@
 datadog/agent-arm64:7.29.1-jmx
+datadog/agent-arm64:7.29.1
