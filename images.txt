@@ -6,3 +6,4 @@ nvidia/cuda:11.8.0-devel-ubuntu22.04
 dustynv/l4t-pytorch:r36.2.0
 dustynv/l4t-pytorch:r36.4.0
 dustynv/l4t-pytorch:r32.7.1
+dustynv/pytorch:2.1-r35.4.1
