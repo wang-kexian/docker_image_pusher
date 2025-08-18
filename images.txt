@@ -1,8 +1,5 @@
-#datadog/agent-arm64:7.29.1-jmx
-#datadog/agent-arm64:7.29.1
-#duscks23/ubuntu22.04:v0.3
 #nvidia/cuda:11.8.0-devel-ubuntu22.04
-#--platform=linux/arm64 nvidia/cuda:11.8.0-devel-ubuntu22.04
+#--platform=linux/arm64 nvidia/cuda:11.8.0-devel-ubuntu22.04 
 dustynv/l4t-pytorch:r36.2.0
 dustynv/l4t-pytorch:r36.4.0
 dustynv/l4t-pytorch:r32.7.1
